@@ -1,1 +1,1 @@
-# Yaz-l-m-M-h.-Oryantasyonu-devi
+# Yazılım mÜhendisliği Oryantasyon Ödevi
